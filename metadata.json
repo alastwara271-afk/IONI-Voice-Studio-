@@ -1,0 +1,6 @@
+{
+  "name": "IONI Voice Studio — AI Text-to-Speech",
+  "description": "Professional AI text-to-speech web application for Arabic and English educational YouTube videos, storytelling, and CapCut narration workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
